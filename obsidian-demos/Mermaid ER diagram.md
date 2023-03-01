@@ -17,3 +17,5 @@ erDiagram
         float pricePerUnit
     }
 ```
+
+Learn more at [mermaid official docs](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) (this snippet was taken from there).
